@@ -1,0 +1,3 @@
+include ':CoolToast'
+include ':app'
+rootProject.name = "CoolToast-Android"
